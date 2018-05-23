@@ -1,0 +1,15 @@
+*idea*
+*iml*
+*iws*
+*ipr*
+*class*
+BubbleSortAlgorithm/.idea/
+BubbleSortAlgorithm/target/
+BubbleSortAlgorithm/.idea/compiler.xml
+BubbleSortAlgorithm/.idea/misc.xml
+BubbleSortAlgorithm/.idea/workspace.xml
+BubbleSortAlgorithm/BubbleSortAlgorithm.iml
+BubbleSortAlgorithm/pom.xml
+BubbleSortAlgorithm/target/classes/Algorithm.class
+BubbleSortAlgorithm/target/classes/BubbleSort.class
+BubbleSortAlgorithm/target/classes/SalesRepresentative.class
