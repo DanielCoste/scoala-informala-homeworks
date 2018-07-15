@@ -1,3 +1,4 @@
+
 *idea*
 *iml*
 *iws*
@@ -13,3 +14,11 @@ BubbleSortAlgorithm/pom.xml
 BubbleSortAlgorithm/target/classes/Algorithm.class
 BubbleSortAlgorithm/target/classes/BubbleSort.class
 BubbleSortAlgorithm/target/classes/SalesRepresentative.class
+
+out
+*.idea
+*.iml
+*.xml
+*target
+
+

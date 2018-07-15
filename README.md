@@ -1,2 +1,2 @@
 # scoala-informala-homeworks
-Daniel Coste
+Daniel Coste - exercise 1
